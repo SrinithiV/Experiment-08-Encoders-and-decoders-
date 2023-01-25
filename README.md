@@ -120,7 +120,7 @@ Decoder :
 
 Encoder :
 
-![](./td1.jpg)
+![](./td11.jpg)
 
 Decoder :
 
@@ -134,7 +134,7 @@ Encoder :
 
 Decoder :
 
-![](./tt2.jpg)
+![](./tt22.jpg)
 
 ### RESULTS 
 
